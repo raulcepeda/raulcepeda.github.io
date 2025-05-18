@@ -3,230 +3,52 @@ title: Research
 layout: template
 filename: research
 order: 1
---- 
-
-**Links: 
-[Publications](#publications)&nbsp;&nbsp;&nbsp;
-[Working Papers](#working-papers)&nbsp;&nbsp;&nbsp;
-[Work in Progress](#work-in-progress)**
-
 ---
 
-## Publications {#publications}
-
-**[Infrastructures of race? Colonial indigenous segregation and contemporary land values](https://www.sciencedirect.com/science/article/pii/S0166046224000966){:target="_blank"}** *with [Luis Baldomero-Quintana](https://sites.google.com/view/luisbaldomeroquintana/){:target="_blank"} and [Enrique de la Rosa-Ramos](https://www.enriquedelarosaramos.com/){:target="_blank"}*.  
-***Regional Science and Urban Economics**, January 2025, Volume 110, 104065.*  
-<p>
-  <img 
-    style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR2.png';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/IoR1.png" 
-  />
-  <br />
-  <small>Image credit: <a href="http://bdmx.mx/documento/galeria/mapas-indigenas-novohispanos-agn/co_imagen33/fo_05t=" target="_blank">Archivo General de la Nación: Molinos de azúcar, Tacubaya. Distrito Federal, 1587.</a></small>
-</p>
-
-<details>
-  <summary>Abstract</summary>
-  <br>
-  <blockquote style="text-align: justify;">
-     We investigate the persistent impact of a colonial segregation policy on land values in modern Mexico City. During colonial times, Indigenous communities were confined, with varying degrees of success, to settlements known as pueblos de indios. Using historical records, we exploit quasi-random variation due to the pueblos’ catchment areas and use a Regression Discontinuity Design to estimate the causal effects of pueblos on land prices. We find a 5% land value penalty for areas affected by the colonial policy. The penalty is exacerbated for the pueblos formerly inhabited exclusively by Indigenous populations. Historical evidence and novel digitized maps reveal that these land value penalties have been driven over the past two centuries by low public goods provision, negative economic expectations, and the historical sorting of working-class individuals who built small housing structures that are second-nature factors. Moreover, in contemporary data, we observe discontinuities in housing overcrowding and public goods quality within the pueblos’ catchment areas. Our results underscore the repercussions of colonial policies on contemporary spatial equilibria, clarifying the mechanisms driving historical persistence and offering implications for urban policies.
-  </blockquote>
-</details>
-<br>
-*Sir Alec Cairncross Prize, Runner Up -- Scottish Econometric Society 2022*  
-*Arthur H. Cole Grant -- Economic History Association* 
-
-[[Pueblos de Indios in CDMX](https://billywoom.shinyapps.io/IoR_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/a887584f-7427-4260-b931-4a8216f8a113/audio){:target="_blank"}] [[Replication](https://github.com/woomora/Infrastructures_of_Race){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4125065){:target="_blank"}]
-
-Media: *[VoxDev](https://voxdev.org/topic/institutions-political-economy/how-colonial-segregation-policies-impact-land-values-mexico){:target="_blank"}* (en), *[Broadstreet](https://www.broadstreet.blog/p/infrastructures-of-race-colonial){:target="_blank"}* (en).
-
----
-
-**[Populism’s original sin: Short-term populist penalties and uncertainty traps](https://www.sciencedirect.com/science/article/pii/S0014292124002460?via%3Dihub){:target="_blank"}**  
-***European Economic Review**, February 2025, Volume 172, 104917.*   
-
-<p>
-  <img 
-    style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS2.jpeg';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/POS1.jpeg" 
-  />
-  <br />
-  <small>Image credit: <a href="https://www.nytimes.com/2018/10/29/world/americas/mexico-incoming-president-cancel-airport.html" target="_blank">New York Times</a></small>
-</p>
-
-<details>
-  <summary> Abstract </summary>  
-  <br>
-  <blockquote style="text-align: justify;">
-    This paper investigates the immediate economic impacts of populist policies. In 2018, the Mexican president-elect held an unofficial referendum with less than 1% turnout to halt the construction of Mexico City’s New International Airport. I show the policy is plausibly a natural experiment with nationwide impacts, preceding other macroeconomic shocks and populist policies dismantling economic and institutional checks. Using the synthetic control method, I find a 3.3% to 4.5% GDP reduction one year post-cancellation. Consistent with the uncertainty trap framework, this decline is due to heightened economic uncertainty and a significant drop in investment, reinforcing each other and leading to a prolonged economic downturn. The results highlight how populist policies can impose immediate economic costs by creating uncertainty traps, even before implementing institutional changes.
-  </blockquote>
-</details> 
-<br>
-*Premio Manuel Espinosa Yglesias, First place -- Centro de Estudios Espinosa Yglesias (CEEY) 2022*  
-
-[[Updated GDP Estimates](https://billywoom.shinyapps.io/pos_shiny_app/){:target="_blank"}] [[NotebookLM](https://notebooklm.google.com/notebook/c640faba-1a7b-46a9-8329-12311c56db74/audio){:target="_blank"}] [[Replication](https://github.com/woomora/POS_replication){:target="_blank"}] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893646){:target="_blank"}]
-
-Media: *[VoxEU](https://cepr.org/voxeu/columns/populisms-original-sin-short-term-economic-consequences-populist-policy){:target="_blank"}* (en), *[Nexos](https://redaccion.nexos.com.mx/el-pecado-original-a-seis-anos-de-la-cancelacion-del-naim/){:target="_blank"}* (es), *[El Universal](https://www.eluniversal.com.mx/opinion/carlos-m-urzua/secuelas-de-la-cancelacion-del-aeropuerto/){:target="_blank"}* (es), *[Este País](https://estepais.com/tendencias_y_opiniones/consecuencias-pecado-original/){:target="_blank"}* (es), *[Arena Pública](https://www.arenapublica.com/politicas-publicas/cancelacion-del-naicm-habria-tirado-10-el-pib-capita-en-3-anos){:target="_blank"}* (es). Featured in *[Texcoco. La decisión del presidente](https://youtu.be/LgkPqHmvMtQ?si=3ki4Zi8TJlghkQBv){:target="_blank"}* by CEEY and *[Suerte o desastre](https://www.penguinlibros.com/mx/economia-politica-y-actualidad/339396-libro-suerte-o-desastre-9786073839822?srsltid=AfmBOopkkW8eXKWkqG07ojmXiYUj8Fs8lafDdIGXAZFVTbbcCgfmLJ9q){:target="_blank"}* by Isabella Cota.
+**Links:**  
+[Working Papers](#working-papers) &nbsp;&nbsp;&nbsp; [Work in Progress](#work-in-progress) &nbsp;&nbsp;&nbsp; [Book Chapters](#book-chapters)
 
 ---
 
 ## Working Papers {#working-papers}
 
-**[Unveiling the Cosmic Race: Skin Tone and Intergenerational Economic Disparities in Latin America and the Caribbean](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870741){:target="_blank"}**.
-*Conditionally accepted, Journal of Development Economics.*
-<p>
-  <img 
-    style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR2.jpeg';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/UCR1.jpeg" 
-   />
-  <br />
-  <small>Image credit: <a href="https://lugares.inah.gob.mx/es/museos-inah/museo/museo-piezas/8409-8409-10-241348-cuadro-de-castas.html?lugar_id=475" target="_blank"><em>Cuadro de castas</em> - Unknown artist, Museo Nacional del Virreinato</a></small>
-</p>
-
-<details>
-  <summary> Abstract </summary>  
-  <br>
-  <blockquote style="text-align: justify;">
-    This paper examines how skin tone shapes intergenerational economic disparities across 25 Latin American and Caribbean countries. First, it analyzes the distribution of ethnoracial identities and skin tone, confirming Mestizo predominance and revealing how broad categories obscure substantial phenotypic diversity. Second, it documents non-linear gaps in income and education, with darker skin tones consistently linked to economic disadvantages. A variance decomposition shows that skin tone explains significant within-group variation, offering explanatory power beyond self-reported ethnoracial categories. Finally, using mothers’ education as a benchmark, the study provides novel cross-country evidence on skin tone gaps in absolute educational intergenerational mobility, revealing barriers to upward mobility for darker-skinned individuals. Robustness checks with machine-assessed skin tone data from Mexico—incorporating additional parental and contextual controls—confirm these disparities. These findings underscore the need to account for phenotypic variation when studying economic inequality in Latin America.
-  </blockquote>
-</details> 
-<br>
-[[WIL Working Paper](https://wid.world/document/unveiling-the-cosmic-race-racial-inequalities-in-latin-america-world-inequality-lab-working-paper-2022-02/){:target="_blank"}] [[NotebookLM Podcast](https://notebooklm.google.com/notebook/26cc8c86-0300-4174-9dfb-12125ca41f48/audio){:target="_blank"}]
-
-Media: *[5 papers...in 5 minutes!](https://www.parisschoolofeconomics.eu/en/economics-for-everyone/for-a-wider-audience/5-papers-in-5-minutes/december-2021/unveiling-the-cosmic-race-racial-inequalities-in-latin-america/){:target="_blank"}* (en, fr), *[WIL Press release](https://wid.world/news-article/racial-inequalities-in-latin-america/){:target="_blank"}* (en), *[Nexos](https://economia.nexos.com.mx/desenmascarar-la-raza-cosmica/){:target="_blank"}* (es). 
-
----
-
-**[Moral Force: Leaders’ Actions and Public Health Compliance in Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3678980){:target="_blank"}** *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and Federico Daverio*.  
-
-  > New draft coming soon!
+**The Impact of Special Economic Zones on Border Regions in Mexico (2024)**  
+Article under review. With Daniel Ventosa and Alejandro Romero.
 
 <p>
-  <img 
-    style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF1.jpeg';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF2.jpeg';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/MF1.jpeg" 
-  />
-  <br />
-  <small>Image credit: <a href="https://www.nytimes.com/es/2022/11/28/espanol/marcha-amlo-mexico.html" target="_blank"> Luis Antonio Rojas for The New York Times</a></small>
+<b>[PDF coming soon]</b> | <b>[Code repository placeholder]</b> | <b>[Main graph placeholder]</b>
 </p>
-
-<details>
-  <summary> Abstract </summary>  
-  <br>
-  <blockquote style="text-align: justify;">
-    Charismatic leaders shape public sentiment but may undermine institutions by prioritizing personal appeal over institutional trust. During COVID-19, the Mexican president publicly dismissed stay-at-home guidelines. We use an event-study design to examine his example’s effect on his partisanship’s social distancing by combining granular out-of-home mobility and electoral data. After accounting for differences in political support, pro-government geographies increase their within-city mobility. Moreover, in the first two months, pro-government municipalities have 16% higher mobility, causing 46% more COVID-19 cases and 50% more deaths. Our findings suggest the president’s actions, not partisan divides, shaped social distancing behavior and public health outcomes.
-  </blockquote>
-</details> 
-<br>
-
-[[NotebookLM Podcast](https://notebooklm.google.com/notebook/6d3b9570-a33f-4f60-b502-bf76733e2184/audio){:target="_blank"}]
-
----
-
-**[Skin Tone Penalties: Bottom-up Discrimination in Football](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4537612)**  *with [Donia Kamel](https://www.doniakamel.com/home){:target="_blank"}.*
-
-  > New draft coming soon!
-
-<p>
-  <img 
-    style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties1.png';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties2.png';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/ST_penalties1.png" 
-  />
-  <small>Image credit: <a href="https://www.imago-images.com/sp/0027126877" target="_blank"> IMAGO / Colorsport</a></small>
-</p>
-
-<details>
-  <summary> Abstract </summary>  
-  <br>
-  <blockquote style="text-align: justify;">
-    This paper investigates colorism, racial discrimination based on skin color, in men's football. Firstly, using machine learning algorithms, we extract players' skin tones from online headshots to examine their impact on fan-based ratings and valuations. We find evidence of a skin tone penalty, where darker-skinned players face lower fan-driven market values and ratings. Secondly, using algorithm-based ratings and employing a Difference-in-Discontinuities design with geolocated penalty kicks data, we show that lighter-skinned players enjoy a premium higher by one standard deviation than their darker-skinned peers, conditional on scoring a penalty. 
-Additionally, we find evidence that non-native players with dark skin face a double penalty. 
-Leveraging the COVID-19 pandemic as a natural experiment, we highlight the role of fans' stadium attendance in algorithm-based results. 
-The findings underscore direct skin tone discrimination in football and highlight fans' role in perpetuating algorithmic bias.
-  </blockquote>
-</details> 
-<br>
-
----
-
-**[Embracing modernity pays: Cadastre modernization effects on local property tax collection](https://scioteca.caf.com/handle/123456789/2301?locale-attribute=en)**  *with [María Montoya-Aguirre](https://mariamontoyaa.github.io/){:target="_blank"} and [Emmanuel Chávez](https://emmanuelchavez.weebly.com/){:target="_blank"}.*
-
-<p>
-  <img 
-    style="width: 100%; height: auto;" 
-    onmouseout="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro1.png';" 
-    onmouseover="this.src='https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro2.png';" 
-    src="https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/catastro1.png" 
-  />
-  <small>Image credit: <a href="https://www.supermap.com/en-us/case/?76_3195" target="_blank"> SuperMap</a></small>
-</p>
-
-<details>
-  <summary> Abstract </summary>  
-  <br>
-  <blockquote style="text-align: justify;">
-    This paper investigates the impact of the Mexican cadastre modernization program on local property tax revenue. We evaluate a comprehensive modernization initiative, which began in 2010 and included guidelines, technical assistance, and subsidies for local cadastres. Using panel data from 2000 to 2019 and a Difference-in-Differences approach, we find that municipalities adopting the program saw a 10% increase in property tax revenue within five years, rising to 30% after eight years. This effect varies significantly with local state capacity and the coordinating institution implementing the program. The program significantly enhances the state of local cadastres over the long-term. Municipalities that adopt the program are more likely to invest in staff training, implement comprehensive cadastral management systems, and digitize their registries. Our results highlight the importance of local capacities and coordination in realizing the benefits of decentralization and modernization policies.
-  </blockquote>
-</details> 
-<br>
-
-*Premio Víctor L. Urquidi, Honorific mention -- Centro de Estudios Económicos, El Colegio de México*  
-*Research Grant: Descentralización y Capacidades Subnacionales en América Latina y el Caribe -- CAF*
 
 ---
 
 ## Work in Progress {#work-in-progress}
 
-**[On the Other Side of the Creek: Historical segregation, neighborhood identity and human capital accumulation]()**  
+**Good money and bad money: a nonlinear approach to the relationship with inflation and output (2024)**  
+With Ezequiel Piedras. *(Draft coming soon!)*
 
-  > Draft coming soon!
+**Growth and Innovation under top percentile dynamics in France (1915–2019)**  
+With Daniel Ventosa. *(Draft coming soon!)*
 
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/AOLDR.png)
-
-*Reserach Grants: UNU-WIDER, CEPREMAP, PSE Stone Center*<br>
-*Honorific Mention Fernando Rosenzweig Prize Graduate Thesis – Mexican Economic History Association 2021*  
-*Best Graduate Thesis in Applied Economics – CIDE 2020*  
-
-<!--- Media: *[Territorio](https://www.territorio.mx/al-otro-lado-del-rio/){:target="_blank"}* (es). --->
+**Greenium in the global and the local market: the case of an emerging economy**
 
 ---
 
-**[Cooperative Firms and Local Development]()**  
+## Book Chapters (Spanish) {#book-chapters}
 
-  > Draft coming soon!
+**The Effect of Social and Solidarity Enterprises on Local Economic Development: Evidence from Mexico (2023)**  
+Honorable Mention, Congressional Award. Book chapter. With PhD Student Guillermo Woo.
 
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/co-ops_locdev.png)
+> Analysis using a Difference-in-Differences model to measure the impact of social and solidarity enterprises on luminosity as a proxy for productivity in Mexico.
 
-*Research Grant: The Rural World in Latin America and the Caribbean -- CAF*
+<p>
+<b>[PDF coming soon]</b> | <b>[Image placeholder]</b>
+</p>
 
----
+**Crime and Education in Mexico (2024)**  
+Book Chapter. With PhD Ericka Rascón and Andro Asatashvili.
 
-**[New Echoes of Deep Mexico? Present and Persistent Elements of Indigenous Identities]()** *with [Pedro Torres López](https://github.com/PedroToL){:target="_blank"}*.
+> County level analysis of the relation between education and financially motivated crimes vs. violence-driven crimes with a panel OLS model in Mexico.
 
-  > Draft coming soon!
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/NEDP2.jpg)
-
-*Chapter prepared for the second volume of the book “[Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean](https://link.springer.com/book/10.1007/978-3-031-38723-4){:target="_blank"}” edited by [Felipe Valencia Caicedo](https://sites.google.com/site/felipev84/Home){:target="_blank"}.*
-
----
-
-## Resting Papers {#resting-papers}
-
-**[Preferences for Redistribution in the Land of Inequalities: Experimental and Observational Evidence from Mexico]()**   
-*with [Eva O. Arceo-Gómez](https://www.eva-arceo.com/){:target="_blank"} and [Hernán Bejarano](https://www.hernandbejarano.com/){:target="_blank"}*
-
-![](https://raw.githubusercontent.com/woomora/woomora.github.io/main/images/PFRLI.png)
-
-*Citibanamex Economics Prize, First Place Undergraduate Thesis –- Citibanamex 2019*
-
+<p>
+<b>[PDF coming soon]</b> | <b>[Image placeholder]</b>
+</p>
