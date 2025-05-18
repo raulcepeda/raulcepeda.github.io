@@ -21,7 +21,6 @@ nav:
     url: "/about/"
   - title: "Research"
     url: "/research/"
-  - title: "Teaching"
-    url: "/teaching/"
-  - title: "Photography"
-    url: "/photo/"
+  - title: "Media"
+    url: "/media/"
+
