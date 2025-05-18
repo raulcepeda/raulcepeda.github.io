@@ -5,7 +5,7 @@ filename: index
 order: 0
 ---
 
-Soy economista en el [Banco de México](https://www.banxico.org.mx){:target="_blank"}, donde trabajo en la **Dirección General de Investigación Económica**, específicamente en el **Área de Análisis Macrofinanciero**. Obtuve la licenciatura en Economía por el [CIDE](https://www.cide.edu/){:target="_blank"} en la Ciudad de México.
+Soy economista en el [Banco de México](https://www.banxico.org.mx){:target="_blank"}, donde trabajo en la **Dirección General de Investigación Económica**, específicamente en la **Dirección de Análisis Macroeconómico**. Obtuve la licenciatura en Economía por el [CIDE](https://www.cide.edu/){:target="_blank"} en la Ciudad de México.
 
 En particular me interesan **series de tiempo aplicadas**, **evaluación de políticas públicas** y **mercados financieros y dinámica del crédito** en economías emergentes.
 
