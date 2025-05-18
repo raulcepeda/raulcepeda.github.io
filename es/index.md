@@ -1,24 +1,21 @@
 ---
+title: Acerca de
 layout: template
 filename: index
 order: 0
---- 
+---
 
-Soy candidato a doctor en Economía en [PSE](https://www.parisschoolofeconomics.eu/en/){:target="_blank"} y [EHESS](https://www.ehess.fr/fr){:target="_blank"}. Mi investigación doctoral está supervisada por [Suanna Oh](https://www.suannaoh.com/){:target="_blank"} y [Thierry Verdier](https://www.parisschoolofeconomics.eu/fr/verdier-thierry/){:target="_blank"}, con [Ekaterina Zhuravskaya](http://www.parisschoolofeconomics.com/zhuravskaya-ekaterina/){:target="_blank"} como miembro de mi comité de tesis.
+Soy economista en el [Banco de México](https://www.banxico.org.mx){:target="_blank"}, donde trabajo en la **Dirección General de Investigación Económica**, específicamente en el **Área de Análisis Macrofinanciero**. Obtuve la licenciatura en Economía por el [CIDE](https://www.cide.edu/){:target="_blank"} en la Ciudad de México.
 
-Previamente, estudié mi licenciatura y maestría en el [CIDE](https://www.cide.edu/division_de/){:target="_blank"} en México.
+En particular me interesan **series de tiempo aplicadas**, **evaluación de políticas públicas** y **mercados financieros y dinámica del crédito** en economías emergentes.
 
-Mi campo principal es la economía política del desarrollo. Mi investigación doctoral analiza cómo los legados históricos, institucionales y las identidades culturales moldean desigualdades persistentes en distintos territorios y grupos sociales. 
-<!--- Con base en aportaciones de la economía histórica y cultural, y empleando métodos espaciales, busco identificar qué explica disparidades y contribuir a estrategias que promuevan un desarrollo inclusivo. --->
+Mi objetivo es continuar con un doctorado en Economía o, en su caso, cursar una maestría que fortalezca mi perfil académico para aplicar posteriormente al doctorado.
 
-Mis proyectos actuales abarcan:
+Este sitio web funciona como repositorio de mis intereses de investigación, formación académica y futuros proyectos.
 
-1. Los efectos a largo plazo de la segregación histórica en el equilibrio espacial urbano y la formación de capital humano, con especial atención a las identidades barrial.
-2. Las consecuencias intergeneracionales y económicas de la discriminación por color de piel, centrándome en cómo moldea las oportunidades y refuerza la desigualdad.
-3. El papel de las empresas cooperativas y con arraigo social en el fomento del desarrollo económico local, especialmente en comunidades rezagadas.
 
-Además, estudio la economía política del populismo, analizando cómo las decisiones de política pública y el discurso de los líderes populistas influyen en los resultados económicos, el bienestar social y las dinámicas partidistas.
 
-### [CV (en inglés)](https://github.com/woomora/Woo-Mora-CV-pdf/blob/main/Woo-Mora%20CV.pdf){:target="_blank"}
+### [CV](https://github.com/raulcepeda/raulcepeda.github.io/blob/main/CV_RCS.pdf){:target="_blank"}
 
-[Switch to English](/)
+[Ver en inglés](/)
+
